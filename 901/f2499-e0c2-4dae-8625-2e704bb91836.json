@@ -1,0 +1,183 @@
+{
+    "acquisition_software": "pychron 20.1.1",
+    "aliquot": 3623,
+    "analysis_type": "blank_air",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "77ad116c95b07dc7e0fcc4f40714ce2b5a096352",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1.1",
+    "detectors": {
+        "Ax": {
+            "deflection": null,
+            "gain": null
+        },
+        "H1": {
+            "deflection": null,
+            "gain": null
+        },
+        "H2": {
+            "deflection": null,
+            "gain": null
+        },
+        "H3": {
+            "deflection": null,
+            "gain": null
+        },
+        "H4": {
+            "deflection": null,
+            "gain": null
+        },
+        "L1": {
+            "deflection": null,
+            "gain": null
+        },
+        "L2": {
+            "deflection": null,
+            "gain": null
+        },
+        "L3": {
+            "deflection": null,
+            "gain": null
+        },
+        "L4": {
+            "deflection": null,
+            "gain": null
+        },
+        "L5": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "L3_airtest_20220308",
+    "experiment_type": "Ar/Ar",
+    "extraction": "ngx_CO2_eq12.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "ba-01-n",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 4,
+    "isotopes": {
+        "Ar35": {
+            "detector": "L5",
+            "name": "Ar35",
+            "serial_id": "00000"
+        },
+        "Ar36": {
+            "detector": "L5",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar36L3": {
+            "detector": "L3",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar36L4": {
+            "detector": "L4",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L3",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar37L1": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar37L2": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar38Ax": {
+            "detector": "Ax",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar38H1": {
+            "detector": "H1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar39H2": {
+            "detector": "H2",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar39H3": {
+            "detector": "H3",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H3",
+            "name": "Ar40",
+            "serial_id": "00000"
+        },
+        "Ar40H4": {
+            "detector": "H4",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": null,
+    "lithology": null,
+    "lithology_class": null,
+    "lithology_group": null,
+    "lithology_type": null,
+    "longitude": null,
+    "mass_spectrometer": "Ngx",
+    "material": "Blank",
+    "measurement": "ngx_unknown_12cy_10s_65_35_HOP2_nocenter.py",
+    "post_equilibration": "ngx_pump_extraction_line.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "WiscAr",
+    "project": "References",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Ngx_air220",
+    "rlocation": "",
+    "sample": "Blank",
+    "source": {
+        "emission": 2110.0,
+        "trap": 650.00983
+    },
+    "spec_sha": "23aeea083a3aae381788b647572440a5f181dc34",
+    "timestamp": "2022-03-08T16:36:33.607360",
+    "tripped_conditional": null,
+    "unit": null,
+    "username": "root",
+    "uuid": "901f2499-e0c2-4dae-8625-2e704bb91836",
+    "whiff_result": null
+}
